@@ -30,7 +30,7 @@ Install Python packages:
 
 ```bash
 pip install selenium
-
+```
 
 ## Usage
 python youtube-scraper.py
