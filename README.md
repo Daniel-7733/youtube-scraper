@@ -47,17 +47,3 @@ How To Build a Neural Network in Python;845K views
 
 ## Contributing
 Pull requests are welcome! If you spot a bug or have an idea, open an issue first.
-
-
-## License
-
----
-
-**Next steps**
-
-1. Create **README.md** in the repo and paste the content.  
-2. Commit the file.  
-3. If you ever add screenshots/GIFs, drop them in a `/docs` folder and update the image link at the top.
-
-Let me know if you’d like any tweaks or a quick guide on adding a license file or `.gitignore`!
-
